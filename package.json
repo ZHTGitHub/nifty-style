@@ -1,11 +1,20 @@
 {
   "name": "rocket-nifty.css",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "description": "css实用样式",
   "main": "rocket-nifty.css",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "scripts": {},
+  "author": "zenghaitao",
+  "license": "ISC",
+  "style": "./rocket-nifty.css",
+  "files": [
+    "rocket-nifty.css",
+    "source/**/*.css"
+  ],
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "rollup": "^3.7.5",
+    "rollup-plugin-postcss": "^4.0.2"
+  }
 }
