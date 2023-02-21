@@ -7,7 +7,7 @@ export default {
     {
       file: './nifty-style.js',
       format: 'umd',
-      name: 'nifty'
+      name: 'nifty-style'
     }
   ],
   plugins: [
