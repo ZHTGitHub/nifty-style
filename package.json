@@ -1,15 +1,15 @@
 {
-  "name": "rocket-nifty.css",
-  "version": "1.0.1",
+  "name": "nifty-style",
+  "version": "1.0.0",
   "description": "css实用样式",
-  "main": "rocket-nifty.js",
+  "main": "nifty-style.js",
   "scripts": {
     "build": "rollup --config"
   },
   "author": "zenghaitao",
   "license": "ISC",
   "files": [
-    "rocket-nifty.js",
+    "nifty-style.js",
     "source/**/*.css"
   ],
   "devDependencies": {

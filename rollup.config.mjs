@@ -2,10 +2,10 @@ import postcss from 'rollup-plugin-postcss'
 import cssnano from 'cssnano'
 
 export default {
-  input: './source/rocket-nifty.js',
+  input: './source/nifty-style.js',
   output: [
     {
-      file: './rocket-nifty.js',
+      file: './nifty-style.js',
       format: 'umd',
       name: 'nifty'
     }

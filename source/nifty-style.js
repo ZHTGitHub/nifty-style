@@ -1,5 +1,7 @@
 import './background/background.css';
 
+import './cursor/cursor.css'
+
 import './display/display.css';
 
 import './elevation/elevation.css';

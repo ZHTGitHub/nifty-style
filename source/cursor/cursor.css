@@ -1,0 +1,84 @@
+/* 默认 浏览器设置的光标 */
+.c-auto {
+  cursor: auto;
+}
+
+/* 光标呈现为十字线 */
+.c-crosshair {
+  cursor: crosshair;
+}
+
+/* 默认光标（通常是一个箭头） */
+.c-default {
+  cursor: default;
+}
+
+/* 此光标指示矩形框的边缘可被向右（东）移动 */
+.c-e-resize {
+  cursor: e-resize;
+}
+
+/* 此光标指示可用的帮助（通常是一个问号或一个气球） */
+.c-help {
+  cursor: help;
+}
+
+/* 此光标指示某对象可被移动 */
+.c-move {
+  cursor: move;
+}
+
+/* 此光标指示矩形框的边缘可被向上（北）移动 */
+.c-n-resize {
+  cursor: n-resize;
+}
+
+/* 此光标指示矩形框的边缘可被向上及向右移动（北/东） */
+.c-ne-resize {
+  cursor: ne-resize;
+}
+
+/* 此光标指示矩形框的边缘可被向上及向左移动（北/西） */
+.c-nw-resize {
+  cursor: nw-resize;
+}
+
+/* 光标呈现为指示链接的指针（一只手） */
+.c-pointer {
+  cursor: pointer;
+}
+
+/* 此光标指示正在加载 */
+.c-progress {
+  cursor: progress;
+}
+
+/* 此光标指示矩形框的边缘可被向下移动（南） */
+.c-s-resize {
+  cursor: s-resize;
+}
+
+/* 此光标指示矩形框的边缘可被向下及向右移动（南/东） */
+.c-se-resize {
+  cursor: se-resize;
+}
+
+/* 此光标指示矩形框的边缘可被向下及向左移动（南/西） */
+.c-sw-resize {
+  cursor: sw-resize;
+}
+
+/* 此光标指示文本 */
+.c-text {
+  cursor: text;
+}
+
+/* 此光标指示矩形框的边缘可被向左移动（西） */
+.c-w-resize {
+  cursor: w-resize;
+}
+
+/* 此光标指示程序正忙（通常是一只表或沙漏） */
+.c-wait {
+  cursor: wait;
+}
