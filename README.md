@@ -20,18 +20,18 @@ import 'nifty-style'
 > <h3 id="background">background</h3>
 <br />
 
-深色背景  
+深色背景
 | 嫣红 | 橘橙 | 明黄 | 橄榄 | 森绿 | 天青 | 海蓝 | 姹紫 | 木槿 | 桃粉 | 棕褐 | 玄灰 | 草灰 | 墨黑 | 雅白 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | bg-red | bg-orange | bg-yellow | bg-olive | bg-green | bg-cyan | bg-blue | bg-purple | bg-mauve | bg-pink | bg-brown | bg-grey | bg-gray | bg-black | bg-white |  
 
-浅色背景  
-[深色背景].light
+浅色背景
 ```bash
+<!-- [深色背景].light -->
 <div class="bg-red light"></div
-```
+```  
 
-渐变背景  
+渐变背景
 | 魅红 | 鎏金 | 翠柳 | 靛青 | 惑紫 | 霞彩 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | bg-gradual-red | bg-gradual-orange | bg-gradual-green | bg-gradual-blue | bg-gradual-purple | bg-gradual-pink |
