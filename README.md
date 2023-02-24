@@ -32,15 +32,20 @@ import 'nifty-style'
 ```  
 
 渐变背景
-| 魅红 | 鎏金 | 翠柳 | 靛青 | 惑紫 | 霞彩 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| bg-gradual-red | bg-gradual-orange | bg-gradual-green | bg-gradual-blue | bg-gradual-purple | bg-gradual-pink |
+| 类 | 描述 |
+| :---- | :---- |
+| bg-gradual-red | 魅红 |
+| bg-gradual-orange | 鎏金 |
+| bg-gradual-green | 翠柳 |
+| bg-gradual-blue | 靛青 |
+| bg-gradual-purple | 惑紫 |
+| bg-gradual-pink | 霞彩 |
 <br />
 
 > <h3 id="cursor">cursor</h3>
 <br />
 
-|  类   | 描述  |
+| 类 | 描述 |
 |  :----  | :----  |
 | c-auto   | 默认 浏览器设置的光标  |
 | c-crosshair   | 光标呈现为十字线  |
