@@ -179,3 +179,17 @@ import 'nifty-style'
 | float-left | 左浮动 |
 | float-right | 右浮动 |
 | float-none | 默认值 不浮动 |
+<br />
+
+> <h3 id="rounded">rounded</h3>
+<br />
+
+| 类 | 描述 |
+| :---- | :---- |
+| rounded-0 | 0px |
+| rounded-sm | 4px |
+| rounded-md | 8px |
+| rounded-lg | 16px |
+| rounded-xl | 24px |
+| rounded-pill | 胶囊 |
+| rounded-circle | 圆角 |
