@@ -94,29 +94,79 @@ import 'nifty-style'
 > <h3 id="elevation">elevation</h3>
 <br />
 
+为元素指定自定义的z-index
 | 类 |
 | :---- |
-| elevation-0 |
-| elevation-2 |
-| elevation-3 |
-| elevation-4 |
-| elevation-5 |
-| elevation-6 |
-| elevation-7 |
-| elevation-8 |
-| elevation-9 |
-| elevation-10 |
-| elevation-11 |
-| elevation-12 |
-| elevation-13 |
-| elevation-14 |
-| elevation-15 |
-| elevation-16 |
-| elevation-17 |
-| elevation-18 |
-| elevation-19 |
-| elevation-20 |
-| elevation-21 |
-| elevation-22 |
-| elevation-23 |
-| elevation-24 |
+| elevation-0 | elevation-1 | elevation-2 | elevation-3 | elevation-4 | elevation-5 | elevation-6 |
+| elevation-7 | elevation-8 | elevation-9 | elevation-10 | elevation-11 | elevation-12 | elevation-13 |
+| elevation-14 | elevation-15 | elevation-16 | elevation-17 | elevation-18 | elevation-19 | elevation-20 |
+| elevation-21 | elevation-22 | elevation-23 | elevation-24 |
+<br />
+
+> <h3 id="flex">flex</h3>
+<br />
+
+| 类 | 描述 |
+| :---- | :---- |
+| z-flex | 指定为 Flex 布局 |
+<br />
+
+| 类 | 描述 |
+| :---- | :---- |
+| flex-row | 水平方向为主轴 左端为起点 |
+| flex-row-reverse | 水平方向为主轴 右端为起点 |
+| flex-column | 垂直方向为主轴 上沿为起点 |
+| flex-column-reverse | 垂直方向为主轴 下沿为起点 |
+<br />
+
+| 类 | 描述 |
+| :---- | :---- |
+| justify-start | 左对齐 |
+| justify-end | 右对齐 |
+| justify-center | 居中 |
+| justify-between | 两端对齐 |
+| justify-around | 环绕对齐 |
+<br />
+
+| 类 | 描述 |
+| :---- | :---- |
+| align-start | 交叉轴起点对齐 |
+| align-end | 交叉轴终点对齐 |
+| align-center | 交叉轴中点对齐 |
+| align-baseline | 项目第一行文字的基线对齐 |
+| align-stretch | 项目占满整个容器的高度 |
+<br />
+
+| 类 | 描述 |
+| :---- | :---- |
+| align-self-start | 当前元素交叉轴起点对齐 |
+| align-self-end | 当前元素交叉轴终点对齐 |
+| align-self-center | 当前元素交叉轴中点对齐 |
+| align-self-baseline | 当前元素第一行文字的基线对齐 |
+| align-self-stretch | 当前元素占满整个容器的高度 |
+| align-self-auto | 默认值 |
+<br />
+
+| 类 | 描述 |
+| :---- | :---- |
+| align-content-start | 交叉轴的起点对齐 |
+| align-content-end | 交叉轴的终点对齐 |
+| align-content-center | 交叉轴的中点对齐 |
+| align-content-between | 交叉轴两端对齐 |
+| align-content-around | 每根轴线两侧的间隔都相等 |
+<br />
+
+| 类 | 描述 |
+| :---- | :---- |
+| flex-nowrap | 不换行 |
+| flex-wrap | 换行 第一行在上方 |
+| flex-wrap-reverse | 换行 第一行在下方 |
+<br />
+
+| 类 | 描述 |
+| :---- | :---- |
+| flex-shrink-0 | 阻止该条件的发生 |
+| flex-shrink-1 | 允许项目收缩到它的内容所需要的空间 |
+| flex-grow-0 | 阻止该条件的发生 |
+| flex-grow-1 | 允许元素增长以填充可用的空间 |
+<br />
