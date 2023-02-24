@@ -1,6 +1,6 @@
 {
   "name": "nifty-style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "css实用样式",
   "main": "nifty-style.js",
   "license": "MIT",
@@ -17,7 +17,7 @@
     "url": "https://github.com/ZHTGitHub/nifty-style"
   },
   "scripts": {
-    "build": "rollup --config"
+    "lib": "rollup --config"
   },
   "author": "zenghaitao",
   "files": [
