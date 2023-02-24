@@ -27,7 +27,7 @@ import 'nifty-style'
 [solid](#solid)   
 [margin](#margin)  
 [padding](#padding)  
-[text](#text)  
+[text](#text)
 - [文本对齐](#文本对齐)  
 - [文本颜色](#文本颜色)  
 - [装饰线](#装饰线)  
