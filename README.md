@@ -95,8 +95,7 @@ import 'nifty-style'
 <br />
 
 为元素指定自定义的z-index
-| 类 |
-| :---- |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | elevation-0 | elevation-1 | elevation-2 | elevation-3 | elevation-4 | elevation-5 | elevation-6 |
 | elevation-7 | elevation-8 | elevation-9 | elevation-10 | elevation-11 | elevation-12 | elevation-13 |
 | elevation-14 | elevation-15 | elevation-16 | elevation-17 | elevation-18 | elevation-19 | elevation-20 |
@@ -170,3 +169,12 @@ import 'nifty-style'
 | flex-grow-0 | 阻止该条件的发生 |
 | flex-grow-1 | 允许元素增长以填充可用的空间 |
 <br />
+
+> <h3 id="float">float</h3>
+<br />
+
+| 类 | 描述 |
+| :---- | :---- |
+| float-left | 左浮动 |
+| float-right | 右浮动 |
+| float-none | 默认值 不浮动 |
