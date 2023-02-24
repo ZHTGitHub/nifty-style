@@ -3,14 +3,28 @@
   "version": "1.0.0",
   "description": "css实用样式",
   "main": "nifty-style.js",
+  "license": "MIT",
+  "keywords": [
+    "nifty",
+    "style",
+    "niftyStyle",
+    "framework",
+    "frontend"
+  ],
+  "homepage": "https://github.com/ZHTGitHub/nifty-style#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZHTGitHub/nifty-style"
+  },
   "scripts": {
     "build": "rollup --config"
   },
   "author": "zenghaitao",
-  "license": "ISC",
   "files": [
     "nifty-style.js",
-    "source/**/*.css"
+    "source/**/*.css",
+    "README.md",
+    "LICENSE"
   ],
   "devDependencies": {
     "cssnano": "^5.1.14",
