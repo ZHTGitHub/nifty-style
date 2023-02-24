@@ -78,3 +78,14 @@ import 'nifty-style'
 | c-text   | 此光标指示文本  |
 | c-w-resize   | 此光标指示矩形框的边缘可被向左移动（西）  |
 | c-wait   | 此光标指示程序正忙（通常是一只表或沙漏）  |
+<br />
+
+> <h3 id="cursor">cursor</h3>
+<br />
+
+| 类 | 描述 |
+|  :----  | :----  |
+| d-none   | 此元素不会被显示  |
+| d-inline   | 默认 此元素会被显示为内联元素  |
+| d-inline-block   | 行内块元素  |
+| d-block   | 此元素将显示为块级元素  |
