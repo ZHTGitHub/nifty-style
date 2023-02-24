@@ -21,9 +21,23 @@ import 'nifty-style'
 <br />
 
 深色背景
-| 嫣红 | 橘橙 | 明黄 | 橄榄 | 森绿 | 天青 | 海蓝 | 姹紫 | 木槿 | 桃粉 | 棕褐 | 玄灰 | 草灰 | 墨黑 | 雅白 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| bg-red | bg-orange | bg-yellow | bg-olive | bg-green | bg-cyan | bg-blue | bg-purple | bg-mauve | bg-pink | bg-brown | bg-grey | bg-gray | bg-black | bg-white |  
+| 类 | 描述 |
+| :---- | :---- |
+| bg-red | 嫣红 |
+| bg-orange | 橘橙 |
+| bg-yellow | 明黄 |
+| bg-olive | 橄榄 |
+| bg-green | 森绿 |
+| bg-cyan | 天青 |
+| bg-blue | 海蓝 |
+| bg-purple | 姹紫 |
+| bg-mauve | 木槿 |
+| bg-pink | 桃粉 |
+| bg-brown | 棕褐 |
+| bg-grey | 玄灰 |
+| bg-gray | 草灰 |
+| bg-black | 墨黑 |
+| bg-white | 雅白 |
 
 浅色背景
 ```bash
