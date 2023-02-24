@@ -265,3 +265,107 @@ n为0~16的自然数
 | text-justify | 两端对齐 |
 | text-left | 左对齐 |
 | text-right | 右对齐 |
+
+<h4 id="文本颜色">文本颜色</h4>
+
+| 类 | 描述 |
+| :---- | :---- |
+| text-red | 嫣红 |
+| text-orange | 橘橙 |
+| text-yellow | 明黄 |
+| text-olive | 橄榄 |
+| text-green | 森绿 |
+| text-cyan | 天青 |
+| text-blue | 海蓝 |
+| text-purple | 姹紫 |
+| text-mauve | 木槿 |
+| text-pink | 桃粉 |
+| text-brown | 棕褐 |
+| text-grey | 玄灰 |
+| text-gray | 草灰 |
+| text-black | 墨黑 |
+| text-white | 雅白 |
+
+<h4 id="装饰线">装饰线</h4>
+
+| 类 | 描述 |
+| :---- | :---- |
+| text-none | 默认 |
+| text-line-through | 中划线 |
+| text-overline | 上划线 |
+| text-underline | 下划线 |
+
+<h4 id="字体强调">字体强调</h4>
+
+| 类 | 描述 |
+| :---- | :---- |
+| text-bolder | 900 |
+| text-bold | 700 |
+| text-medium | 500 |
+| text-regular | 400 |
+| text-light | 300 |
+| text-thin | 100 |
+| text-italic | italic |
+
+<h4 id="不透明度">不透明度</h4>
+
+| 类 | 描述 |
+| :---- | :---- |
+| text-primary | .87 |
+| text-secondary | .6 |
+| text-disabled | .38 |
+
+<h4 id="文本大小">文本大小</h4>
+
+| 类 | 描述 |
+| :---- | :---- |
+| text-12px | 12px |
+| text-14px | 14px |
+| text-16px | 16px |
+| text-18px | 18px |
+| text-20px | 20px |
+| text-22px | 22px |
+| text-24px | 24px |
+| text-26px | 26px |
+| text-28px | 28px |
+| text-30px | 30px |
+| text-32px | 32px |
+| text-34px | 34px |
+| text-36px | 36px |
+| text-38px | 38px |
+| text-40px | 40px |
+| text-42px | 42px |
+| text-44px | 44px |
+| text-46px | 46px |
+| text-48px | 48px |
+| text-50px | 50px |
+| text-52px | 52px |
+| text-54px | 54px |
+| text-56px | 56px |
+| text-58px | 58px |
+| text-60px | 60px |
+| text-62px | 62px |
+| text-64px | 64px |
+| text-66px | 66px |
+
+<h4 id="文本变形">文本变形</h4>
+
+| 类 | 描述 |
+| :---- | :---- |
+| text-lowercase | 大写 |
+| text-uppercase | 小写 |
+| text-capitalize | 首字母大写 |
+
+<h4 id="文本翻转">文本翻转</h4>
+
+| 类 | 描述 |
+| :---- | :---- |
+| text-rtl | 文本方向从右到左 |
+| text-ltr | 文本方向从左到右 |
+
+<h4 id="文本换行和溢出">文本换行和溢出</h4>
+
+| 类 | 描述 |
+| :---- | :---- |
+| text-no-wrap | 不换行 |
+| text-truncate | 溢出不换行且截断 |
