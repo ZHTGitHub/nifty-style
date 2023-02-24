@@ -193,3 +193,37 @@ import 'nifty-style'
 | rounded-xl | 24px |
 | rounded-pill | 胶囊 |
 | rounded-circle | 圆角 |
+<br />
+
+> <h3 id="solid">solid</h3>
+<br />
+
+| 类 | 描述 |
+| :---- | :---- |
+| solid | 边框 |
+| solid-top | 上边框 |
+| solid-right | 右边框 |
+| solid-bottom | 下边框 |
+| solid-left | 左边框 |
+<br />
+
+> <h3 id="margin">margin</h3>
+<br />
+
+n为0~16的自然数
+| 类 | 描述 |
+| :---- | :---- |
+| mt-n | 上外边距 |
+| mt-auto | 浏览器设置的上外边距 |
+| mb-n | 下外边距 |
+| mb-auto | 浏览器设置的下外边距 |
+| ml-n | 左外边距 |
+| ml-auto | 浏览器设置的左外边距 |
+| mr-n | 右外边距 |
+| mr-auto | 浏览器设置的右外边距 |
+| mx-n | 左右外边距 |
+| mx-auto | 浏览器设置的左右外边距 |
+| my-n | 上下外边距 |
+| my-auto | 浏览器设置的上下外边距 |
+| ma-n | 外边距 |
+| ma-auto | 浏览器设置的外边距 |
