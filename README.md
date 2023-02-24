@@ -60,32 +60,63 @@ import 'nifty-style'
 <br />
 
 | 类 | 描述 |
-|  :----  | :----  |
-| c-auto   | 默认 浏览器设置的光标  |
-| c-crosshair   | 光标呈现为十字线  |
-| c-default   | 默认光标（通常是一个箭头）  |
-| c-e-resize   | 此光标指示矩形框的边缘可被向右（东）移动  |
-| c-help   | 此光标指示可用的帮助（通常是一个问号或一个气球）  |
-| c-move   | 此光标指示某对象可被移动  |
-| c-n-resize   | 此光标指示矩形框的边缘可被向上（北）移动  |
-| c-ne-resize   | 此光标指示矩形框的边缘可被向上及向右移动（北/东）  |
-| c-nw-resize   | 此光标指示矩形框的边缘可被向上及向左移动（北/西）  |
-| c-pointer   | 光标呈现为指示链接的指针（一只手）  |
-| c-progress   | 此光标指示正在加载  |
-| c-s-resize   | 此光标指示矩形框的边缘可被向下移动（南）  |
-| c-se-resize   | 此光标指示矩形框的边缘可被向下及向右移动（南/东）  |
-| c-sw-resize   | 此光标指示矩形框的边缘可被向下及向左移动（南/西）  |
-| c-text   | 此光标指示文本  |
-| c-w-resize   | 此光标指示矩形框的边缘可被向左移动（西）  |
-| c-wait   | 此光标指示程序正忙（通常是一只表或沙漏）  |
+| :----  | :---- |
+| c-auto | 默认 浏览器设置的光标|
+| c-crosshair | 光标呈现为十字线|
+| c-default | 默认光标（通常是一个箭头）|
+| c-e-resize | 此光标指示矩形框的边缘可被向右（东）移动|
+| c-help | 此光标指示可用的帮助（通常是一个问号或一个气球）|
+| c-move | 此光标指示某对象可被移动|
+| c-n-resize | 此光标指示矩形框的边缘可被向上（北）移动|
+| c-ne-resize | 此光标指示矩形框的边缘可被向上及向右移动（北/东）|
+| c-nw-resize | 此光标指示矩形框的边缘可被向上及向左移动（北/西）|
+| c-pointer | 光标呈现为指示链接的指针（一只手）|
+| c-progress | 此光标指示正在加载|
+| c-s-resize | 此光标指示矩形框的边缘可被向下移动（南）|
+| c-se-resize | 此光标指示矩形框的边缘可被向下及向右移动（南/东）|
+| c-sw-resize | 此光标指示矩形框的边缘可被向下及向左移动（南/西）|
+| c-text | 此光标指示文本|
+| c-w-resize | 此光标指示矩形框的边缘可被向左移动（西）|
+| c-wait | 此光标指示程序正忙（通常是一只表或沙漏）|
 <br />
 
-> <h3 id="cursor">cursor</h3>
+> <h3 id="display">display</h3>
 <br />
 
 | 类 | 描述 |
-|  :----  | :----  |
-| d-none   | 此元素不会被显示  |
-| d-inline   | 默认 此元素会被显示为内联元素  |
-| d-inline-block   | 行内块元素  |
-| d-block   | 此元素将显示为块级元素  |
+| :---- | :---- |
+| d-none | 此元素不会被显示 |
+| d-inline | 默认 此元素会被显示为内联元素 |
+| d-inline-block | 行内块元素 |
+| d-block | 此元素将显示为块级元素 |
+<br />
+
+> <h3 id="elevation">elevation</h3>
+<br />
+
+| 类 |
+| :---- |
+| elevation-0 |
+| elevation-2 |
+| elevation-3 |
+| elevation-4 |
+| elevation-5 |
+| elevation-6 |
+| elevation-7 |
+| elevation-8 |
+| elevation-9 |
+| elevation-10 |
+| elevation-11 |
+| elevation-12 |
+| elevation-13 |
+| elevation-14 |
+| elevation-15 |
+| elevation-16 |
+| elevation-17 |
+| elevation-18 |
+| elevation-19 |
+| elevation-20 |
+| elevation-21 |
+| elevation-22 |
+| elevation-23 |
+| elevation-24 |
