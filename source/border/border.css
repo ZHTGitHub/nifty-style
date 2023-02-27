@@ -1,0 +1,33 @@
+:root {
+  --thin-border: thin solid #f0f0f0;
+}
+
+.b-all {
+  border: var( --thin-border);
+}
+
+.b-top {
+  border-top: var( --thin-border);
+}
+
+.b-right {
+  border-right: var( --thin-border);
+}
+
+.b-bottom {
+  border-bottom: var( --thin-border);
+}
+
+.b-left {
+  border-left: var( --thin-border);
+}
+
+.b-x {
+  border-right: var( --thin-border);
+  border-left: var( --thin-border);
+}
+
+.b-y {
+  border-top: var( --thin-border);
+  border-bottom: var( --thin-border);
+}

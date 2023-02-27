@@ -223,11 +223,13 @@ import 'nifty-style'
 
 | 类 | 描述 |
 | :---- | :---- |
-| solid | 边框 |
-| solid-top | 上边框 |
-| solid-right | 右边框 |
-| solid-bottom | 下边框 |
-| solid-left | 左边框 |
+| b-all | 边框 |
+| b-top | 上边框 |
+| b-right | 右边框 |
+| b-bottom | 下边框 |
+| b-left | 左边框 |
+| b-x | 水平方向边框 |
+| b-y | 垂直方向边框 |
 <br />
 
 > <h3 id="margin">margin</h3>
